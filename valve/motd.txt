@@ -1,5 +1,0 @@
-Welcome To Random Bhop Server
-
-say /boost = for increase bhop speed
-say /unstuck = unstuck
-say rtv = vote mapchange
